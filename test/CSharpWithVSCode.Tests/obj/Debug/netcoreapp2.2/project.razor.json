@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "/Users/kishore.k1/workspace/CSharpWithVSCode/test/CSharpWithVSCode.Tests/CSharpWithVSCode.Tests.csproj",
+  "TargetFramework": "netcoreapp2.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

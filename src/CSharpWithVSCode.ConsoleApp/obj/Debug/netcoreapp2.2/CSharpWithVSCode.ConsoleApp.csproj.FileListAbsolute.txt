@@ -1,0 +1,14 @@
+/Users/kishore.k1/workspace/CSharpWithVSCode/src/CSharpWithVSCode.ConsoleApp/bin/Debug/netcoreapp2.2/CSharpWithVSCode.ConsoleApp.deps.json
+/Users/kishore.k1/workspace/CSharpWithVSCode/src/CSharpWithVSCode.ConsoleApp/bin/Debug/netcoreapp2.2/CSharpWithVSCode.ConsoleApp.runtimeconfig.json
+/Users/kishore.k1/workspace/CSharpWithVSCode/src/CSharpWithVSCode.ConsoleApp/bin/Debug/netcoreapp2.2/CSharpWithVSCode.ConsoleApp.runtimeconfig.dev.json
+/Users/kishore.k1/workspace/CSharpWithVSCode/src/CSharpWithVSCode.ConsoleApp/bin/Debug/netcoreapp2.2/CSharpWithVSCode.ConsoleApp.dll
+/Users/kishore.k1/workspace/CSharpWithVSCode/src/CSharpWithVSCode.ConsoleApp/bin/Debug/netcoreapp2.2/CSharpWithVSCode.ConsoleApp.pdb
+/Users/kishore.k1/workspace/CSharpWithVSCode/src/CSharpWithVSCode.ConsoleApp/bin/Debug/netcoreapp2.2/CSharpWithVSCode.ClassLib.dll
+/Users/kishore.k1/workspace/CSharpWithVSCode/src/CSharpWithVSCode.ConsoleApp/bin/Debug/netcoreapp2.2/CSharpWithVSCode.ClassLib.pdb
+/Users/kishore.k1/workspace/CSharpWithVSCode/src/CSharpWithVSCode.ConsoleApp/obj/Debug/netcoreapp2.2/CSharpWithVSCode.ConsoleApp.csprojAssemblyReference.cache
+/Users/kishore.k1/workspace/CSharpWithVSCode/src/CSharpWithVSCode.ConsoleApp/obj/Debug/netcoreapp2.2/CSharpWithVSCode.ConsoleApp.csproj.CoreCompileInputs.cache
+/Users/kishore.k1/workspace/CSharpWithVSCode/src/CSharpWithVSCode.ConsoleApp/obj/Debug/netcoreapp2.2/CSharpWithVSCode.ConsoleApp.AssemblyInfoInputs.cache
+/Users/kishore.k1/workspace/CSharpWithVSCode/src/CSharpWithVSCode.ConsoleApp/obj/Debug/netcoreapp2.2/CSharpWithVSCode.ConsoleApp.AssemblyInfo.cs
+/Users/kishore.k1/workspace/CSharpWithVSCode/src/CSharpWithVSCode.ConsoleApp/obj/Debug/netcoreapp2.2/CSharpWithVSCode.ConsoleApp.csproj.CopyComplete
+/Users/kishore.k1/workspace/CSharpWithVSCode/src/CSharpWithVSCode.ConsoleApp/obj/Debug/netcoreapp2.2/CSharpWithVSCode.ConsoleApp.dll
+/Users/kishore.k1/workspace/CSharpWithVSCode/src/CSharpWithVSCode.ConsoleApp/obj/Debug/netcoreapp2.2/CSharpWithVSCode.ConsoleApp.pdb

@@ -1,0 +1,9 @@
+/Users/kishore.k1/workspace/CSharpWithVSCode/src/CSharpWithVSCode.ClassLib/bin/Debug/netstandard2.0/CSharpWithVSCode.ClassLib.deps.json
+/Users/kishore.k1/workspace/CSharpWithVSCode/src/CSharpWithVSCode.ClassLib/bin/Debug/netstandard2.0/CSharpWithVSCode.ClassLib.dll
+/Users/kishore.k1/workspace/CSharpWithVSCode/src/CSharpWithVSCode.ClassLib/bin/Debug/netstandard2.0/CSharpWithVSCode.ClassLib.pdb
+/Users/kishore.k1/workspace/CSharpWithVSCode/src/CSharpWithVSCode.ClassLib/obj/Debug/netstandard2.0/CSharpWithVSCode.ClassLib.csprojAssemblyReference.cache
+/Users/kishore.k1/workspace/CSharpWithVSCode/src/CSharpWithVSCode.ClassLib/obj/Debug/netstandard2.0/CSharpWithVSCode.ClassLib.csproj.CoreCompileInputs.cache
+/Users/kishore.k1/workspace/CSharpWithVSCode/src/CSharpWithVSCode.ClassLib/obj/Debug/netstandard2.0/CSharpWithVSCode.ClassLib.AssemblyInfoInputs.cache
+/Users/kishore.k1/workspace/CSharpWithVSCode/src/CSharpWithVSCode.ClassLib/obj/Debug/netstandard2.0/CSharpWithVSCode.ClassLib.AssemblyInfo.cs
+/Users/kishore.k1/workspace/CSharpWithVSCode/src/CSharpWithVSCode.ClassLib/obj/Debug/netstandard2.0/CSharpWithVSCode.ClassLib.dll
+/Users/kishore.k1/workspace/CSharpWithVSCode/src/CSharpWithVSCode.ClassLib/obj/Debug/netstandard2.0/CSharpWithVSCode.ClassLib.pdb
